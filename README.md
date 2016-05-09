@@ -6,8 +6,8 @@
 -->
 * [Email](mailto:g00.eccyan at gmail.com)
 
-[![Build Status](https://secure.travis-ci.org/qubits.svg?branch=master)](https://travis-ci.org/qubits)
-[![Code Climate GPA](https://codeclimate.com/github/qubits/badges/gpa.svg)](https://codeclimate.com/github/qubits)
+[![Build Status](https://travis-ci.org/eccyan/qubits.svg?branch=master)](https://travis-ci.org/eccyan/qubits)
+[![Code Climate](https://codeclimate.com/github/eccyan/qubits/badges/gpa.svg)](https://codeclimate.com/github/eccyan/qubits)
 
 ## Description
 
